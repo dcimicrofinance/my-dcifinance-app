@@ -3,6 +3,7 @@
     "name": "DCI Microfinance",
     "slug": "dcimicrofinance",
     "version": "1.0.0",
+    "privacyPolicyUrl": "https://dcimicrofinance.github.io/privacy.html",
     "orientation": "portrait",
     "icon": "./assets/icon.jpeg",
     "userInterfaceStyle": "dark",
